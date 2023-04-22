@@ -44,7 +44,7 @@
     "react-dom": "^16.8.6",
     "react-lazy-load-image-component": "^1.5.0",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "^4.0.0",
+    "react-scripts": "^5.0.1",
     "react-visibility-sensor": "^5.1.1",
     "start": "^5.1.0",
     "validate.js": "^0.13.1"
